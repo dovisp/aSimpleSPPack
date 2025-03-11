@@ -1,0 +1,14 @@
+# Windows binaries
+*.exe
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude temp/extracted things
+
+config/spark/
+config/Terra/
+
