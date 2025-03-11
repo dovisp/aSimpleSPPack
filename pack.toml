@@ -1,0 +1,16 @@
+name = "Simple SMP Pack"
+author = "DovisPas"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6c90fc4ba7601bfd32bc7e8b2a4ab1e047c971caa46f56ee7283efa3033dd7ef"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.4"
+
+[options]
+acceptable-game-versions = []
